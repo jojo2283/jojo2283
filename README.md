@@ -11,4 +11,5 @@ I'm currently studying 2nd grade
 
 ### 📫 How to Reach Me:
 - Email: 367889@niuitmo.ru
-- TG: hytq
+- TG: kelurv
+
