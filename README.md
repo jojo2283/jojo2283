@@ -1,7 +1,7 @@
 # Hi, I'm Denis! 👋
 
 ## 🎓 I'm a Student at ITMO University
-I'm currently studying 3d grade 
+I'm currently studying 4d grade 
 ### 🌱 What I'm Learning:
 - Programming
 - WEB programming
